@@ -1,8 +1,5 @@
 <h1 align="center">Santiago Moreno Rojas</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00AEEF&center=true&vCenter=true&width=800&lines=Técnico+en+Sistemas+Microinformáticos+y+Redes;Hardware+|+Soporte+IT+|+Infraestructura;Orientado+a+Servidores+y+Data+Centers"/>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ubicación-Cabrils-blue?style=flat-square"/>
