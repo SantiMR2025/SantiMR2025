@@ -69,6 +69,13 @@ Implementación de prácticas centradas en la eficiencia energética, el aprovec
 
 ---
 
+## idiomas
+- Castellano
+- Catalan
+- ingles
+
+---
+
 ## Experiencia
 
 **Wecolors — Técnico IT en prácticas**  
