@@ -5,8 +5,8 @@
   <img src="https://img.shields.io/badge/Ubicación-Cabrils-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/Edad-18-lightgrey?style=flat-square"/>
   <img src="https://img.shields.io/badge/Estado-Disponible-success?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Formación-DAM-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Formación-DAM-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Formación-SMX-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Formación-DAM-purple?style=flat-square"/>
 </p>
 
 ---
